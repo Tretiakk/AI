@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="black20WF2">#202020</color>
+    <color name="black15WF2">#151515</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="whiteF2B20">#F2F2F2</color>
+    <color name="whiteF2B15">#F2F2F2</color>
+    <color name="whiteDB39">#DDDDDD</color>
+
+    <color name="animatedBackground1">#4150D9</color>
+    <color name="animatedBackground2">#CE4CD0</color>
+</resources>
