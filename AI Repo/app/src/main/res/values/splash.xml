@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.AI.SplashScreen" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/whiteF2B20</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ai_logo_splash</item>
+        <item name="postSplashScreenTheme">@style/Theme.AI</item>
+    </style>
+</resources>
