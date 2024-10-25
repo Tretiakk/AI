@@ -13,10 +13,6 @@ Light and dark themes in the app.
 
 # [Download app (only for android)](https://drive.google.com/file/d/1UUlUY-ZCSFx4d48TGSWzDtAtzYyTMvrz/view?usp=drive_link)
 
-### Video
-![](https://github.com/Tretiakk/AI/blob/main/AI_gif.gif)
-
-
 ![](https://github.com/Tretiakk/AI/blob/main/AI_demo.mp4)
 
 ### Main menu
@@ -27,3 +23,6 @@ Light and dark themes in the app.
 
 ### Network error
 ![](https://github.com/Tretiakk/AI/blob/main/Network.png)
+
+### Video
+![](https://github.com/Tretiakk/AI/blob/main/AI_gif.gif)
