@@ -13,7 +13,9 @@ Light and dark themes in the app.
 
 # [Download app (only for android)](https://drive.google.com/file/d/1UUlUY-ZCSFx4d48TGSWzDtAtzYyTMvrz/view?usp=drive_link)
 
-![](https://github.com/Tretiakk/AI/blob/main/AI_demo.mp4)
+## ![Video preview](https://github.com/Tretiakk/AI/blob/main/AI_demo.mp4)
+
+![](https://github.com/Tretiakk/AI/blob/main/AI%20Preview%203.png)
 
 ### Main menu
 ![](https://github.com/Tretiakk/AI/blob/main/Main.png)
